@@ -1,0 +1,14 @@
+.logo {
+    margin: auto;
+    width: 100%;
+    
+}
+
+.header {
+    margin: auto;
+    width: 90%;    
+}
+
+.nav {
+    visibility: hidden;
+}
