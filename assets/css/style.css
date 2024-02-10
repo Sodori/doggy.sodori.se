@@ -16,6 +16,16 @@ body {
   display: flex;
   align-items: center;
   justify-content: flex-end;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
 }
 
 ul {
@@ -45,6 +55,16 @@ ul {
   max-height: 75vh;
 }
 
+/* Footer stuff */
+.foot {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.footer {
+  margin: 5px;
+}
 
 /* Imported Navbar */
 .menu {
